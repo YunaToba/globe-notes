@@ -13,7 +13,8 @@
     "firebase": "^12.19.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
-    "react-globe.gl": "^2.38.0"
+    "react-globe.gl": "^2.38.0",
+    "use-places-autocomplete": "^4.0.1"
   },
   "devDependencies": {
     "@types/react": "^19.2.18",
